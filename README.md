@@ -77,15 +77,6 @@ This assignment for the Data Mining course demonstrates applied machine learning
 
 ---
 
-## 💡 Potential Extensions
-
-- Add visualization dashboards (Plotly, Seaborn)  
-- Expand to time‑series forecasting tasks  
-- Implement model explainability tools (SHAP, LIME)  
-- Deploy small models or pipelines into MLOps-ready setup  
-
----
-
 ## 📬 Contact & More
 
 - GitHub: [Dimitris-Anagnostopoulos](https://github.com/Dimitris-Anagnostopoulos)  
