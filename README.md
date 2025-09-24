@@ -1,4 +1,6 @@
-# Data Mining Assignment – Grade: 107/100 (+7% Bonus) 🎓
+# Data Mining Assignment 🎓
+
+**Grade Received: 107/100 (+7% Bonus)**  
 
 ## 📚 Project Overview
 
